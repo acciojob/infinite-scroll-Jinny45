@@ -1,4 +1,3 @@
-//your code here!
 const list = document.getElementById('infi-list');
 
 function infinteScroll() {
@@ -15,4 +14,3 @@ function infinteScroll() {
   }
 };
 list.addEventListener('scroll', infinteScroll)
-
